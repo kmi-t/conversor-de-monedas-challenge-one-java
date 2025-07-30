@@ -1,0 +1,25 @@
+ 💲Conversor de Monedas 💲
+
+Este proyecto forma parte del desafío final del programa ONE de Alura + Oracle.
+
+* Descripción *
+
+Aplicación de consola en Java que permite convertir valores desde el dólar estadounidense (USD) a otras monedas usando tasas de cambio en tiempo real obtenidas desde la API de [ExchangeRate-API](https://www.exchangerate-api.com/).
+
+✨ Funciones ✨
+
+  - Menú interactivo en consola.
+  - Conversión de USD a:
+  🌐 ARS (Peso argentino)
+  🌐 BOB (Boliviano boliviano)
+  🌐 BRL (Real brasileño)
+  🌐 CLP (Peso chileno)
+  🌐 COP (Peso colombiano)
+  - Acceso a la API en tiempo real.
+  - Manejo de errores por conexión o tasas no disponibles.
+
+* API utilizada.*
+
+https://www.exchangerate-api.com/
+
+Camila Andrea Torres Gomez.
